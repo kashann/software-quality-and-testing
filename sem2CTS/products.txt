@@ -1,0 +1,4 @@
+Water AQUA,6,food
+Bread,3,food
+Room freshener,12,cleaning
+TV Samsung,1200,electronics
